@@ -1,1 +1,3 @@
 This is another file belongs to features1
+
+and I added this file at the second commit of feature2
